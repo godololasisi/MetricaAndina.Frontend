@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = M.ANDINA.REGISTER.APPLICATION
+build_property.ProjectDir = C:\Users\Terry\source\Proyect_Ultimate02\M.ANDINA.REGISTER.WEB\M.ANDINA.REGISTER.APPLICATION\

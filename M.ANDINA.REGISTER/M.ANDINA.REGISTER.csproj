@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.13" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\M.ANDINA.REGISTER.APPLICATION\M.ANDINA.REGISTER.APPLICATION.csproj" />
+    <ProjectReference Include="..\M.ANDINA.REGISTER.SERVICE\M.ANDINA.REGISTER.SERVICE.csproj" />
+  </ItemGroup>
+
+</Project>

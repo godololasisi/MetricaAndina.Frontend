@@ -1,0 +1,17 @@
+C:\Users\Terry\source\Proyect_Ultimate02\M.ANDINA.REGISTER.WEB\M.ANDINA.REGISTER.SERVICE\bin\Debug\net6.0\M.ANDINA.REGISTER.SERVICE.deps.json
+C:\Users\Terry\source\Proyect_Ultimate02\M.ANDINA.REGISTER.WEB\M.ANDINA.REGISTER.SERVICE\bin\Debug\net6.0\M.ANDINA.REGISTER.SERVICE.dll
+C:\Users\Terry\source\Proyect_Ultimate02\M.ANDINA.REGISTER.WEB\M.ANDINA.REGISTER.SERVICE\bin\Debug\net6.0\M.ANDINA.REGISTER.SERVICE.pdb
+C:\Users\Terry\source\Proyect_Ultimate02\M.ANDINA.REGISTER.WEB\M.ANDINA.REGISTER.SERVICE\bin\Debug\net6.0\M.ANDINA.REGISTER.APPLICATION.dll
+C:\Users\Terry\source\Proyect_Ultimate02\M.ANDINA.REGISTER.WEB\M.ANDINA.REGISTER.SERVICE\bin\Debug\net6.0\M.ANDINA.REGISTER.DOMAIN.dll
+C:\Users\Terry\source\Proyect_Ultimate02\M.ANDINA.REGISTER.WEB\M.ANDINA.REGISTER.SERVICE\bin\Debug\net6.0\M.ANDINA.REGISTER.APPLICATION.pdb
+C:\Users\Terry\source\Proyect_Ultimate02\M.ANDINA.REGISTER.WEB\M.ANDINA.REGISTER.SERVICE\bin\Debug\net6.0\M.ANDINA.REGISTER.DOMAIN.pdb
+C:\Users\Terry\source\Proyect_Ultimate02\M.ANDINA.REGISTER.WEB\M.ANDINA.REGISTER.SERVICE\obj\Debug\net6.0\M.ANDINA.REGISTER.SERVICE.csproj.AssemblyReference.cache
+C:\Users\Terry\source\Proyect_Ultimate02\M.ANDINA.REGISTER.WEB\M.ANDINA.REGISTER.SERVICE\obj\Debug\net6.0\M.ANDINA.REGISTER.SERVICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terry\source\Proyect_Ultimate02\M.ANDINA.REGISTER.WEB\M.ANDINA.REGISTER.SERVICE\obj\Debug\net6.0\M.ANDINA.REGISTER.SERVICE.AssemblyInfoInputs.cache
+C:\Users\Terry\source\Proyect_Ultimate02\M.ANDINA.REGISTER.WEB\M.ANDINA.REGISTER.SERVICE\obj\Debug\net6.0\M.ANDINA.REGISTER.SERVICE.AssemblyInfo.cs
+C:\Users\Terry\source\Proyect_Ultimate02\M.ANDINA.REGISTER.WEB\M.ANDINA.REGISTER.SERVICE\obj\Debug\net6.0\M.ANDINA.REGISTER.SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\Terry\source\Proyect_Ultimate02\M.ANDINA.REGISTER.WEB\M.ANDINA.REGISTER.SERVICE\obj\Debug\net6.0\M.ANDINA.REGISTER.SERVICE.csproj.CopyComplete
+C:\Users\Terry\source\Proyect_Ultimate02\M.ANDINA.REGISTER.WEB\M.ANDINA.REGISTER.SERVICE\obj\Debug\net6.0\M.ANDINA.REGISTER.SERVICE.dll
+C:\Users\Terry\source\Proyect_Ultimate02\M.ANDINA.REGISTER.WEB\M.ANDINA.REGISTER.SERVICE\obj\Debug\net6.0\refint\M.ANDINA.REGISTER.SERVICE.dll
+C:\Users\Terry\source\Proyect_Ultimate02\M.ANDINA.REGISTER.WEB\M.ANDINA.REGISTER.SERVICE\obj\Debug\net6.0\M.ANDINA.REGISTER.SERVICE.pdb
+C:\Users\Terry\source\Proyect_Ultimate02\M.ANDINA.REGISTER.WEB\M.ANDINA.REGISTER.SERVICE\obj\Debug\net6.0\ref\M.ANDINA.REGISTER.SERVICE.dll

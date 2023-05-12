@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "M.ANDINA.REGISTER.SERVICE/1.0.0": {
+        "dependencies": {
+          "M.ANDINA.REGISTER.APPLICATION": "1.0.0"
+        },
+        "runtime": {
+          "M.ANDINA.REGISTER.SERVICE.dll": {}
+        }
+      },
+      "M.ANDINA.REGISTER.APPLICATION/1.0.0": {
+        "dependencies": {
+          "M.ANDINA.REGISTER.DOMAIN": "1.0.0"
+        },
+        "runtime": {
+          "M.ANDINA.REGISTER.APPLICATION.dll": {}
+        }
+      },
+      "M.ANDINA.REGISTER.DOMAIN/1.0.0": {
+        "runtime": {
+          "M.ANDINA.REGISTER.DOMAIN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M.ANDINA.REGISTER.SERVICE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "M.ANDINA.REGISTER.APPLICATION/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "M.ANDINA.REGISTER.DOMAIN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

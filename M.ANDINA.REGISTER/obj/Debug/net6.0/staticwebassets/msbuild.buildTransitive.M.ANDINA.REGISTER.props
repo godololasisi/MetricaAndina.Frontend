@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\M.ANDINA.REGISTER.props" />
+</Project>
